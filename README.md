@@ -1,3 +1,2 @@
-# czechitas-l7
+# czechitas-l8-du
 
-[Odkaz na lekci](https://kodim.cz/kurzy/javascript-vyuka/js-1/funkce-obory/)
